@@ -12,8 +12,8 @@ pub use breathe::*;
 mod static_;
 pub use static_::*;
 
-mod rainbow;
-pub use rainbow::*;
+//mod rainbow;
+//pub use rainbow::*;
 
 use crate::Colour;
 use crate::keyboard::{AuraLaptopUsbPackets, KeyLayout, LedCode, LedUsbPackets};

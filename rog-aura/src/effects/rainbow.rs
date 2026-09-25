@@ -93,4 +93,5 @@
 
 fn main() {
     println!("Hello");
+    println!("I jusr want this to compile dammit")
 }
