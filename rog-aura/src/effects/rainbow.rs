@@ -89,4 +89,8 @@
 //             self.cur_change += 1;
 //         }
 //     }
-// }
+// }]
+
+fn main() {
+    println!("Hello");
+}
